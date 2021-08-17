@@ -1,0 +1,133 @@
+create table Cliente(
+    id_cliente int primary key identity,
+    nome varchar(50),
+    telefoneresidencial varchar(15),
+    celular varchar(15),
+    consulta varchar(50),
+    rua VARCHAR(100),
+    numero VARCHAR(10),
+    bairro VARCHAR(100),
+    cidade VARCHAR(100),
+    cep VARCHAR(100),
+    uf VARCHAR(50)
+);
+
+CREATE TABLE funcionario(
+id_funcionario INT IDENTITY PRIMARY KEY,
+nome VARCHAR(100),
+funcao VARCHAR(100),
+telefone VARCHAR(50),
+rua VARCHAR(100),
+numero VARCHAR(10),
+bairro VARCHAR(100),
+cidade VARCHAR(100),
+cep VARCHAR(100),
+uf VARCHAR(50),
+
+);
+
+Create table Servico(
+id_servico INT IDENTITY PRIMARY KEY,
+descricao varchar(100),
+valor decimal(12,5),
+tipo varchar(100)
+);
+ 
+Create table Veiculo(
+id_veiculo INT IDENTITY PRIMARY KEY,
+descricao varchar(100),                     placa  varchar(30),
+id_cliente int ,
+CONSTRAINT chave_E_cliente Foreign  key (id_cliente)REFERENCES Cliente (id_cliente),
+);
+ 
+SELECT CLIente.id_cliente,
+Veiculo.id_cliente
+FROM
+Cliente INNER JOIN Veiculo ON
+Cliente.id_cliente = Veiculo.id_cliente     
+     
+    
+Create table Recebimento(
+id_Recebimento INT  ,
+id_cliente int ,
+id_servico  int ,
+quantidade int,
+total int,
+Desconto int,
+valor_recebido int,
+troco int,
+--Constraint ChaveE_cliente foreign key(id_cliente) references Cliente(id_cliente),
+--Constraint ChaveE_servico foreign key(id_servico) references Servico(id_servico),
+--constraint ChaveP_recebimento Primary key(id_Recebimento,id_cliente,id_servico)
+);       
+--
+create table venda(
+id_venda int IDENTITY primary key, 
+id_funcionario int,
+data_venda date,
+descricao varchar(100),
+valor  numeric(9,3)
+);
+---
+create table venda_item(
+id_venda_item int IDENTITY primary key, 
+id_venda int,
+id_servico int,
+valor numeric(9,3),
+qtd numeric(9,3)
+);    
+
+create table diaria(
+id_diaria  int IDENTITY primary key ,
+id_funcionario int,
+id_veiculo int,
+id_servico  int,
+data_entrada date,
+hora_inicio time,
+hora_fim time,
+);    
+
+
+create table caixa(
+id_caixa int IDENTITY primary key ,
+data_lancamento date,
+descricao varchar(100),
+valor numeric(9,3),
+tipo varchar(100)
+);
+
+drop table caixa 
+--insert into cliente(nome,Telefoneresidencial
+
+select *from cliente
+select *from Veiculo
+
+SELECT max(id_cliente) As Cliente FROM  Cliente
+
+ SELECT  
+ diaria.id_diaria,
+ diaria.data_entrada,
+ diaria.hora_inicio, 
+ Veiculo.Descricao,
+ Veiculo.Placa,
+ Cliente.nome
+ FROM diaria 
+ INNER JOIN Veiculo ON veiculo.id_veiculo = diaria.id_veiculo
+ INNER JOIN Cliente ON cliente.id_cliente = veiculo.id_cliente
+
+
+ 
+                             SELECT 
+                             
+                              diaria.id_diaria,
+                              diaria.data_entrada,
+                              diaria.hora_inicio, 
+                              Veiculo.Descricao,
+                              Veiculo.Placa,
+                              Cliente.nome 
+
+                             FROM diaria
+                             INNER JOIN Veiculo ON (veiculo.id_veiculo = diaria.id_veiculo)
+                             INNER JOIN Cliente ON (cliente.id_cliente = veiculo.id_cliente)
+
+                             WHERE 0=0 AND placa=placa  OR nome=nome

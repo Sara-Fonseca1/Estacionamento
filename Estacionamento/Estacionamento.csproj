@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCC43736-63CE-4302-8BFC-92B7E97A9082}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Estacionamento</RootNamespace>
+    <AssemblyName>Estacionamento</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classegeral.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="Lançamentos\frmClienteveiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lançamentos\frmClienteveiculo.Designer.cs">
+      <DependentUpon>frmClienteveiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lançamentos\FrmCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lançamentos\FrmCaixa.Designer.cs">
+      <DependentUpon>FrmCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lançamentos\FrmConsultaServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lançamentos\FrmConsultaServico.Designer.cs">
+      <DependentUpon>FrmConsultaServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lançamentos\FrmDiaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lançamentos\FrmDiaria.Designer.cs">
+      <DependentUpon>FrmDiaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\FrmFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\FrmFuncionario.Designer.cs">
+      <DependentUpon>FrmFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lançamentos\Frmlancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lançamentos\Frmlancamento.Designer.cs">
+      <DependentUpon>Frmlancamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas inicio\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas inicio\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lançamentos\FrmRecebimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lançamentos\FrmRecebimento.Designer.cs">
+      <DependentUpon>FrmRecebimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\FrmServiço.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\FrmServiço.Designer.cs">
+      <DependentUpon>FrmServiço.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\frmVeículo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\frmVeículo.Designer.cs">
+      <DependentUpon>frmVeículo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas inicio\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas inicio\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Lançamentos\frmClienteveiculo.resx">
+      <DependentUpon>frmClienteveiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lançamentos\FrmCaixa.resx">
+      <DependentUpon>FrmCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lançamentos\FrmConsultaServico.resx">
+      <DependentUpon>FrmConsultaServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lançamentos\FrmDiaria.resx">
+      <DependentUpon>FrmDiaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\FrmFuncionario.resx">
+      <DependentUpon>FrmFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lançamentos\Frmlancamento.resx">
+      <DependentUpon>Frmlancamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas inicio\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lançamentos\FrmRecebimento.resx">
+      <DependentUpon>FrmRecebimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\FrmServiço.resx">
+      <DependentUpon>FrmServiço.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\frmVeículo.resx">
+      <DependentUpon>frmVeículo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas inicio\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

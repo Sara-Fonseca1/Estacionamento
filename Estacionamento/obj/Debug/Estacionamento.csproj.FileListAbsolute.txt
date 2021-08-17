@@ -1,0 +1,271 @@
+D:\Nova pasta\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Nova pasta\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Nova pasta\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Nova pasta\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel\C#\aula 02\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+E:\doc\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+E:\doc\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+E:\doc\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Rackel2\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+E:\doc\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Rackel\rackel e sara 7\rackel6\rackel5\Rackel2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+D:\rackel6\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\rackel6\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\rackel6\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+E:\doc\projeeto\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+E:\doc\projeeto\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+E:\doc\projeeto\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+E:\doc\projeeto\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\C#3projeto\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Rackel\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Racksara\Downloads\projetinho\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Cti\Downloads\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+D:\Rackel\Projetoagora\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Racksara\Downloads\projetinho\Nova pasta\OLA\C#2\estacionamento2\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojAssemblyReference.cache
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmClienteveiculo.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmCaixa.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmCliente.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmConsultaServico.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmDiaria.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmFuncionario.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Frmlancamento.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmMenu.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmRecebimento.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.FrmServiço.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.frmVeículo.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Login.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.cache
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\lindy\Downloads\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
